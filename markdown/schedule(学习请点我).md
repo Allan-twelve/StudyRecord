@@ -19,9 +19,9 @@
 - 语言基础
   - [菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html)
   - [廖雪峰博客](https://www.liaoxuefeng.com/wiki/1016959663602400/)
-- [《流畅的python》](File:///C:/Users/Allan/Desktop/文件/study_record/books/流畅的python.pdf)
+- [《流畅的python》](C:/Users/Allan/Desktop/文件/study_record/books/流畅的python.pdf)
   
-- [markdown记录](File:///C:/Users/Allan/Desktop/文件/study_record/markdown/学习日记.md)
+- [markdown记录](C:/Users/Allan/Desktop/文件/study_record/markdown/学习日记.md)
 
 - 配置Anaconda环境
 
@@ -53,17 +53,17 @@
 - [ ] [NumPy-菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)
 - [ ] Pandas
 - [ ] [Matplotlib菜鸟教程](https://www.runoob.com/w3cnote/matplotlib-tutorial.html)
-- [ ] [《python数据科学手册》](File:///C:/Users/Allan/Desktop/文件/study_record/books/Python数据科学手册.pdf)
+- [ ] [《python数据科学手册》](C:/Users/Allan/Desktop/文件/study_record/books/Python数据科学手册.pdf)
   - NumPy: P 28-85
   - Pandas: P 86-189
   - Matplotlib: P 190-290
 
-- [ ] [《利用python进行数据分析》](File:///C:/Users/Allan/Desktop/文件/study_record/books/利用Python进行数据分析.pdf)
+- [ ] [《利用python进行数据分析》](C:/Users/Allan/Desktop/文件/study_record/books/利用Python进行数据分析.pdf)
   - NumPy: P 82-112 P 368-397
   - Pandas: P 115-158
   - Matplotlib: P 213-260
 
-- [ ] [分析.csv文件](File:///C:/Users/Allan/desktop/文件/study_record/csv/)
+- [ ] [分析.csv文件](C:/Users/Allan/desktop/文件/study_record/csv/)
 
 - 任务：对.csv文件进行数据分析，如何分析、分析出什么请自行发挥。其中，数据集字段说明 如下：
   - AggregationMethod：统计数据的周期 
@@ -120,8 +120,8 @@
 
 ### 途径：
 
-- [ ] [《机器学习》](File:///C:/Users/Allan/Desktop/文件/study_record/books/机器学习 周志华.pdf)(必看难书)
-- [ ] [《机器学习实战》全英](File:///C:/Users/Allan/Desktop/文件/study_record/books/机器学习实战.pdf)(这个还是别看了)
+- [ ] [《机器学习》](C:/Users/Allan/Desktop/文件/study_record/books/机器学习 周志华.pdf)(必看难书)
+- [ ] [《机器学习实战》全英](C:/Users/Allan/Desktop/文件/study_record/books/机器学习实战.pdf)(这个还是别看了)
 - [ ] 台大林轩田教授系列(数学功底要求高)
 - [ ] 台大李宏毅教授系列(二次元即正义)
 - [ ] 莫烦python(b站，复习回顾用)
@@ -134,9 +134,9 @@
 
 - [ ] 台大李宏毅教授系列(b站)
 - [ ] 莫烦python(b站)
-- [ ] [《动手学深度学习》](File:///C:/Users/Allan/Desktop/文件/study_record/books/动手学深度学习.pdf)简单，有大部分主流深度学习框架代码对应版本，适合萌新
+- [ ] [《动手学深度学习》](C:/Users/Allan/Desktop/文件/study_record/books/动手学深度学习.pdf)简单，有大部分主流深度学习框架代码对应版本，适合萌新
 
-- [ ] [《神经网络与深度学习》](File:///C:/Users/Allan/Desktop/文件/study_record/books/神经网络与深度学习—邱锡鹏.pdf)简单全面，适合入门、回顾
+- [ ] [《神经网络与深度学习》](C:/Users/Allan/Desktop/文件/study_record/books/神经网络与深度学习—邱锡鹏.pdf)简单全面，适合入门、回顾
 
 ### 框架：
 
@@ -160,6 +160,6 @@
 
 学习：
 
-[阿里巴巴Java开发手册](File:///C:/Users/Allan/Desktop/文件/study_record/books/阿里巴巴Java开发手册.pdf)
+[阿里巴巴Java开发手册](C:/Users/Allan/Desktop/文件/study_record/books/阿里巴巴Java开发手册.pdf)
 
 ---
