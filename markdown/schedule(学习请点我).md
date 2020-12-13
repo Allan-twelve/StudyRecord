@@ -21,7 +21,7 @@
   - [廖雪峰博客](https://www.liaoxuefeng.com/wiki/1016959663602400/)
 - [《流畅的python》](C:/Users/Allan/Desktop/文件/study_record/books/流畅的python.pdf)
   
-- [markdown记录](C:/Users/Allan/Desktop/文件/study_record/markdown/学习日记.md)
+- [markdown记录](C:/Users/Allan/Desktop/文件/study_record/markdown/我的学习日记.md)
 
 - 配置Anaconda环境
 
