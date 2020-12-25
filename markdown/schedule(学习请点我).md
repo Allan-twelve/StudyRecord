@@ -33,7 +33,7 @@
 - [ ] BFS广度(宽度)优先搜索
 - [ ] BP神经网络
 - [ ] [数据结构](https://www.runoob.com/data-structures/data-structures-tutorial.html)
-- [ ] LaTeX排版系统(公式)
+- [x] LaTeX排版系统(公式)
 
 - [ ] [洛谷](https://www.luogu.com.cn/)
 
